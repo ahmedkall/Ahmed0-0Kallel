@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed0-0Kallel
 - 👀 I’m interested in Software development with special interest in blockchain technologies.
-- 🌱 I’m currently learning Java and Javascript.
 - 📫 You can reach me here: akallel@aximmetry.com
 
 <!---
